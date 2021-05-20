@@ -1,3 +1,3 @@
-# Image Compressed (multipart | base64)
+# image-compressor (multipart|base64)
 
-this is a function for compress multipart or base64 using core PHP
+This file is helpful to compress multipart or base64 image using core PHP
